@@ -4,4 +4,4 @@
 
 git clone https://github.com/adafruit/Adafruit_Python_CharLCD.git
 
-sudo python setup.py install
+sudo python3 setup.py install
